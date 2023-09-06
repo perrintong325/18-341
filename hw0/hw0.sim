@@ -1,0 +1,16 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06_Full64; Runtime version T-2022.06_Full64;  Aug 30 11:14 2023
+state: SLEEP alarm: 0 good: 0 happy: 0 fun_n 1
+state: SLEEP alarm: 1 good: 0 happy: 0 fun_n 1
+state: STUDY alarm: 0 good: 0 happy: 1 fun_n 1
+state: STUDY alarm: 0 good: 1 happy: 0 fun_n 0
+state: PLAY alarm: 0 good: 0 happy: 1 fun_n 0
+state: STUDY alarm: 1 good: 0 happy: 0 fun_n 0
+state: PLAY alarm: 1 good: 0 happy: 1 fun_n 0
+$finish called from file "hw0.sv", line 90.
+$finish at simulation time                   19
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 19
+CPU Time:      0.690 seconds;       Data structure size:   0.0Mb
+Wed Aug 30 11:14:55 2023
