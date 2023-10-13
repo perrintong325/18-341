@@ -1,0 +1,18 @@
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06_Full64; Runtime version T-2022.06_Full64;  Sep 10 18:48 2023
+VCD+ Writer T-2022.06_Full64 Copyright (c) 1991-2022 by Synopsys Inc.
+The file '/afs/andrew.cmu.edu/usr16/yiuchunt/private/18-341/hw1/inter.vpd' was opened successfully.
+a=1, b=0, c=x, d=0, e=x
+a=1, b=0, c=1, d=1, e=1
+a=1, b=0, c=0, d=1, e=1
+Simulation complete, time is 2.
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06_Full64; Runtime version T-2022.06_Full64;  Sep 10 18:48 2023
+VCD+ Writer T-2022.06_Full64 Copyright (c) 1991-2022 by Synopsys Inc.
+The file '/afs/andrew.cmu.edu/usr16/yiuchunt/private/18-341/hw1/inter.vpd' was opened successfully.
+a=1, b=0, c=x, d=0, e=x
+a=1, b=0, c=1, d=1, e=1
+a=1, b=0, c=0, d=1, e=1
+Simulation complete, time is 2.

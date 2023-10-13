@@ -1,0 +1,18 @@
+********************************************************************************
+*                                  18240: hw3                                  *
+*                           Error log for: yiuchunt                            *
+********************************************************************************
+********************************** Problem 1 ***********************************
+hw3.sv, mController.svp: failed to compile
+
+Error-[SFCOR] Source file cannot be opened
+  Source file 
+  "/afs/andrew.cmu.edu/usr16/yiuchunt/private/18-341/hw3/mController.svp" 
+  cannot be opened for reading due to 'No such file or directory'.
+  Please fix above issue and compile again.
+  
+  
+
+1 error
+
+

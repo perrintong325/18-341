@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1696907421.739358559, "rt":0.81, "ut":0.38, "st":0.28}}
+{"vcselab":{"timestamp_begin":1696907422.726970808, "rt":0.88, "ut":0.54, "st":0.27}}
+{"link":{"timestamp_begin":1696907423.745537890, "rt":0.54, "ut":0.17, "st":0.35}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1696907420.902143857}
+{"VCS_COMP_START_TIME": 1696907420.902143857}
+{"VCS_COMP_END_TIME": 1696907424.459276302}
+{"VCS_USER_OPTIONS": "-sverilog mController.sve hw3.sv -debug"}
+{"vcs1": {"peak_mem": 338116}}
+{"stitch_vcselab": {"peak_mem": 238956}}
