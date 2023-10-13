@@ -1,3 +1,9 @@
 [submodule "p1-warmup-perrintong325"]
 	path = p1-warmup-perrintong325
 	url = https://github.com/18-341/p1-warmup-perrintong325
+[submodule "p2-matrixmultiply-perrintong325"]
+	path = p2-matrixmultiply-perrintong325
+	url = https://github.com/18-341/p2-matrixmultiply-perrintong325
+[submodule "p3-noc-perrintong325"]
+	path = p3-noc-perrintong325
+	url = https://github.com/18-341/p3-noc-perrintong325.git
